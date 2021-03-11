@@ -700,6 +700,9 @@ pre {
 	.bg-wrap .align-items-center p a{
 		display:none;
 	}
+	.footer .py-md-5{
+		padding-bottom:0px !important
+	}
 }
 
 @media (min-width: 576px) {
