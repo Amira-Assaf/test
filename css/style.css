@@ -695,7 +695,7 @@ pre {
 
  @media only screen and (min-width: 100px) and (max-width: 600px) {
 	.overlay1 {
-		height: 1200px !important;
+		height: 1250px !important;
 	}   
 	.bg-wrap .align-items-center p a{
 		display:none;
